@@ -37,13 +37,21 @@ Or if you prefer yarn, run:
 
 
 **Running the Project:**
-   1. **Start the development server::**
-      
-      ```bash
-      For npm:
-             npm run dev
-      For yarn:
-            yarn run dev
+
+  1. **Start the development server:**
+
+   - **For npm:**
+
+     ```bash
+     npm run dev
+     ```
+
+   - **For yarn:**
+
+     ```bash
+     yarn run dev
+     ```
+
 
 
 
@@ -67,6 +75,18 @@ In the project directory, you can run:
 - **`npm run build`** or **`yarn build`**: Builds the app for production.
 - **`npm test`** or **`yarn test`**: Launches the test runner.
 
+
+
+## Contributing
+
+Contributions are welcome! 🎉 
+
+If you have suggestions for improvements, feel free to:
+
+- **Open an issue** to report bugs or propose new features.
+- **Submit a pull request** with your changes.
+
+Let's make this project better together! 🚀
 
 
 
