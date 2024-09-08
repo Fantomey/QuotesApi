@@ -1,4 +1,4 @@
-# RandomQuotesApi
+# QuotesApi
 
 A simple React application that displays random quotes. This project demonstrates the use of React for creating a user-friendly interface to fetch and display quotes.
 
