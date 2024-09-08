@@ -25,15 +25,39 @@ Clone the repository and install the required dependencies.
    cd RandomQuotesApi
 
 
+2. **Install dependencies:**
+
+   ```bash
+   If you are using npm, run:
+   npm install
+
+   Or if you prefer yarn, run:
+   yarn install
 
 
-### Available Scripts
-In the project directory, you can run:
+**Running the Project:**
+   1. **Start the development server::**
+       ```bash
+      For npm:
+      npm start
 
-Command	Description
-npm start	Runs the app in development mode.
-npm build	Builds the app for production.
-npm test	Launches the test runner.
-yarn start	Runs the app in development mode.
-yarn build	Builds the app for production.
-yarn test	Launches the test runner.
+      For yarn:
+      yarn start
+
+
+   2. **Access the application:**
+
+      After running the start command, the application will be available in your browser at:
+      
+     ```bash
+     http://localhost:3000/
+
+   The development server will automatically reload whenever you make changes to the code, providing an instant preview of your updates.
+
+      
+
+   **Available Scripts:**
+
+
+
+
