@@ -38,28 +38,34 @@ Or if you prefer yarn, run:
 
 **Running the Project:**
    1. **Start the development server::**
+      
+      ```bash
       For npm:
-            ```bash
              npm run dev
-
       For yarn:
-            ```bash
             yarn run dev
 
 
-   2. **Access the application:**
+
+2. **Access the application:**
 
       After running the start command, the application will be available in your browser at:
       
-        ```bash
+   ```bash
         
-        http://localhost:3000/
+   http://localhost:3000/
 
-   The development server will automatically reload whenever you make changes to the code, providing an instant preview of your updates.
+ The development server will automatically reload whenever you make changes to the code, providing an instant preview of your updates.
 
       
 
-   **Available Scripts:**
+ ## Available Scripts
+
+In the project directory, you can run:
+
+- **`npm run dev`** or **`yarn run dev`**: Runs the app in development mode.
+- **`npm run build`** or **`yarn build`**: Builds the app for production.
+- **`npm test`** or **`yarn test`**: Launches the test runner.
 
 
 
