@@ -26,31 +26,34 @@ Clone the repository and install the required dependencies.
 
 
 2. **Install dependencies:**
-
+If you are using npm, run:
    ```bash
-   If you are using npm, run:
    npm install
 
-   Or if you prefer yarn, run:
-   yarn install
+Or if you prefer yarn, run:
+      ```bash
+         yarn install
+
 
 
 **Running the Project:**
    1. **Start the development server::**
-       ```bash
       For npm:
-      npm start
+            ```bash
+             npm run dev
 
       For yarn:
-      yarn start
+            ```bash
+            yarn run dev
 
 
    2. **Access the application:**
 
       After running the start command, the application will be available in your browser at:
       
-     ```bash
-     http://localhost:3000/
+        ```bash
+        
+        http://localhost:3000/
 
    The development server will automatically reload whenever you make changes to the code, providing an instant preview of your updates.
 
